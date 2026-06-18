@@ -1,27 +1,124 @@
-# 💫 About Me:
-Hi, I'm Ahamed Rilwan 👋<br><br>Aspiring Data Engineer with hands-on experience building ETL pipelines, workflow automation, and data processing solutions using Python, SQL, Airflow, Docker, and PostgreSQL. I enjoy solving real-world data challenges and continuously expanding my skills through projects, research, and open-source learning.<br><br>Here you'll find my featured projects, technical experiments, and GitHub activity.<br>
+<div align="center">
 
+# Ahamed Rilwan M
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamril2265) 
+**Data Engineer** · Distributed Systems · Streaming Pipelines · Batch ETL
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ahamril2265&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=ahamril2265&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ahamril2265&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamril2265)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:<!-- your-email@example.com -->)
+[![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square)]()
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ahamril2265&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+*Final-year Electrical & Electronics Engineering student (Minor: Data Science) at Kumaraguru College of Technology — building production-grade data infrastructure and actively seeking Data Engineering roles.*
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ahamril2265&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ahamril2265&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+I design and build **end-to-end data pipelines** — from ingestion and streaming to transformation, orchestration, and observability. My engineering background gives me a systems-first perspective on fault tolerance, scalability, and data quality that I apply to every pipeline I build.
+
+- 🔁 Focused on **distributed systems**, **real-time streaming**, and **orchestrated batch ETL**
+- 🧪 IBM Data Engineering Professional Certificate (Coursera · 2024)
+- 📍 Coimbatore, India · Available for remote or hybrid roles
+
+---
+
+## Featured Projects
+
+### ⚡ Real-Time IoT Telemetry Pipeline
+> End-to-end streaming pipeline ingesting IoT sensor data at scale with fault-tolerant delivery and automated orchestration.
+
+- Ingested and processed high-throughput sensor streams using **Apache Kafka** and **Apache Spark Streaming**
+- Orchestrated daily pipeline workflows via **Apache Airflow** with retry logic and alerting
+- Stored processed events in **PostgreSQL** with schema-enforced partitioning for query performance
+- Containerized full stack with **Docker Compose**; achieved zero-downtime restarts via health checks
+
+`Kafka` `Spark` `Airflow` `PostgreSQL` `Docker` `Python`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](<!-- LINK -->)
+
+---
+
+### 📊 ML Experiment Tracking & Data Platform
+> Unified platform for tracking ML experiments, managing artifacts, and serving metrics — built on a modern open-source lakehouse stack.
+
+- Tracked experiment runs, parameters, and metrics with **MLflow** backed by **MinIO** for artifact storage
+- Queried and transformed experiment data using **DuckDB** with columnar pushdown for fast analytics
+- Automated CI/CD for pipeline validation and schema tests via **GitHub Actions**
+- Enforced data contracts and lineage across datasets using **dbt**
+
+`MLflow` `DuckDB` `MinIO` `dbt` `GitHub Actions` `Python`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](<!-- LINK -->)
+
+---
+
+### 🗄️ Batch ETL Pipeline with Data Quality Framework
+> Scalable batch processing pipeline with built-in data quality validation and structured observability.
+
+- Designed multi-stage ETL using **Apache Spark** on a **Hadoop**-backed distributed file system
+- Implemented idempotent data loads with incremental processing patterns to reduce compute costs
+- Built data quality checks (null rates, schema drift, referential integrity) integrated into Airflow DAGs
+- Managed infrastructure as code using **Docker** and **Kubernetes** manifests
+
+`Spark` `Hadoop` `Airflow` `Kubernetes` `Docker` `SQL`
+
+[![Repo](https://img.shields.io/badge/GitHub-View%20Repo-181717?style=flat-square&logo=github)](<!-- LINK -->)
+
+---
+
+## Technical Stack
+
+**Languages**
+`Python` `SQL` `Java` `Bash`
+
+**Pipeline & Orchestration**
+`Apache Airflow` `Apache Kafka` `Apache Spark` `dbt` `Apache Hadoop`
+
+**Storage & Databases**
+`PostgreSQL` `DuckDB` `MinIO` `MongoDB`
+
+**Infrastructure & DevOps**
+`Docker` `Kubernetes` `GitHub Actions`
+
+**Experiment & Observability**
+`MLflow`
+
+**Exploring**
+`AWS (S3, Glue, Redshift)` `GCP (BigQuery, Dataflow)`
+
+---
+
+## Certifications
+
+| Certificate | Issuer | Year |
+|---|---|---|
+| IBM Data Engineering Professional Certificate | Coursera · IBM | 2024 |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=ahamril2265&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=ahamril2265&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+## Connect
+
+I'm actively looking for **Data Engineering roles** (fresher / entry-level). If you're hiring or want to talk pipelines, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ahamril2265-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahamril2265)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:<!-- your-email@example.com -->)
+
+---
+
+<div align="center">
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=ahamril2265&color=blue&style=flat-square" /></sub>
+</div>
